@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.vscode
+account_info.txt
 # C extensions
 *.so
 
